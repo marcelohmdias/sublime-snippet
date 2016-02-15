@@ -7,7 +7,7 @@
 <meta itemprop="description" content="${3:Pequena descrição}">
 <meta itemprop="image" content="${4:Imagem da página}">
 <meta itemprop="url" content="${4:Url}">
-
+$0
 ]]>
 </content>
 <tabTrigger>meta</tabTrigger>

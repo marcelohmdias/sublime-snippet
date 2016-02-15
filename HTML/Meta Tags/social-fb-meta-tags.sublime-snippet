@@ -17,7 +17,7 @@
 <meta property="article:tag" content="tag2">
 
 <link rel="image_src" href="${5:Link absoluto da imagem}">
-
+$0
 ]]>
 </content>
 <tabTrigger>meta</tabTrigger>

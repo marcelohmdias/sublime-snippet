@@ -26,7 +26,7 @@
 <meta name="geo.placename" content="${8:}">
 
 <link rel="canonical" href="${9:}">
-<!-- :Meta tags -->
+<!-- :Meta tags -->$0
 ]]>
 </content>
 <tabTrigger>meta</tabTrigger>

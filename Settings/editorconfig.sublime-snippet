@@ -18,7 +18,7 @@ trim_trailing_whitespace = false
 
 [*.py]
 indent_size = 4
-
+$0
 ]]>
 </content>
 <tabTrigger>editorconfig</tabTrigger>

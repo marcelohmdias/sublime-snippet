@@ -7,7 +7,7 @@
 <meta name="twitter:title" content="${2:Título do Post}">
 <meta name="twitter:description" content="${3:Descrição do post}">
 <meta property="twitter:image:src" content="${4:link da imagem}">
-
+$0
 ]]>
 </content>
 <tabTrigger>meta</tabTrigger>

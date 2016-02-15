@@ -1,9 +1,9 @@
 <snippet>
 <content>
 <![CDATA[
-(function (window, document, undefined) {
-  ${1:body}$0
-})(window, document);
+(function (${1:window}, ${2:document}, undefined) {
+  ${3:body}$0
+})(${1:window}, ${2:document});
 ]]>
 </content>
 <tabTrigger>iife</tabTrigger>
