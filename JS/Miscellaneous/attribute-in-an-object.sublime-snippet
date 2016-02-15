@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:name}: ${2:value}$0
+]]>
+</content>
+<tabTrigger>attr</tabTrigger>
+<description>Js attribute in an object</description>
+</snippet>

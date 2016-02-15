@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+@media ${1:all} and (${2:min-width}: ${3:768px}) {
+  ${4:class}
+}$0
+]]>
+</content>
+<tabTrigger>media</tabTrigger>
+<description>CSS Media Querie</description>
+</snippet>

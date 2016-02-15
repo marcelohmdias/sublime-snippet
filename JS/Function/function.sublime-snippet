@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+function ${1:methodName}(${2:arguments}) {
+  ${3:body}
+}$0
+]]>
+</content>
+<tabTrigger>func</tabTrigger>
+<description>Js Named Function</description>
+</snippet>

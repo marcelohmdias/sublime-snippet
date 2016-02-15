@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+Objects.keys(${1:object}).forEach(function (key) {
+  ${1:object}[key]
+});$0
+]]>
+</content>
+<tabTrigger>object</tabTrigger>
+<description>Js Function prototype</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.createTextNode('${2:text}');$0
+]]>
+</content>
+<tabTrigger>create</tabTrigger>
+<description>Js Function createTextNode()</description>
+</snippet>

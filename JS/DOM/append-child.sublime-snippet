@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.appendChild(${2:element});$0
+]]>
+</content>
+<tabTrigger>append</tabTrigger>
+<description>Js Function appendChild()</description>
+</snippet>

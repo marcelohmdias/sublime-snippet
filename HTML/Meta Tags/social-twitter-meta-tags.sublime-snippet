@@ -1,0 +1,15 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="${1:@user}">
+<meta name="twitter:title" content="${2:Título do Post}">
+<meta name="twitter:description" content="${3:Descrição do post}">
+<meta property="twitter:image:src" content="${4:link da imagem}">
+
+]]>
+</content>
+<tabTrigger>meta</tabTrigger>
+<description>Social Meta Tags - Twitter</description>
+</snippet>

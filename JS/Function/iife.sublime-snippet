@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+(function (window, document, undefined) {
+  ${1:body}$0
+})(window, document);
+]]>
+</content>
+<tabTrigger>iife</tabTrigger>
+<description>Js IIFE</description>
+</snippet>

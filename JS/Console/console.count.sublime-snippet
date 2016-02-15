@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+console.count(${1:message});$0
+]]>
+</content>
+<tabTrigger>cc</tabTrigger>
+<description>Js Function console.count()</description>
+</snippet>

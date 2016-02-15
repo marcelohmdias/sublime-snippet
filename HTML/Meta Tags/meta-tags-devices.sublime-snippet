@@ -1,0 +1,18 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Android Lolipop Theme Color -->
+<meta name="theme-color" content="#${1:000000}">
+
+<!-- Microsoft -->
+<meta name="application-name" content="${2:}">
+<meta name="msapplication-TileColor" content="#${1:000000}"/>
+<meta name="msapplication-square70x70logo" content="${3:route}-70x70.png"/>
+<meta name="msapplication-square150x150logo" content="${3:route}-150x150.png"/>
+<meta name="msapplication-wide310x150logo" content="${3:route}-310x150.png"/>
+<meta name="msapplication-square310x310logo" content="${3:route}-310x310.png"/>
+]]>
+</content>
+<tabTrigger>meta</tabTrigger>
+<description>Devices Meta Tags</description>
+</snippet>

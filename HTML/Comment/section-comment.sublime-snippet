@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- ${1:Section comment}: -->
+${2:Body}$0
+<!-- :${1:Section comment} -->
+]]>
+</content>
+<tabTrigger>h//</tabTrigger>
+<description>HTML Section Comment</description>
+</snippet>

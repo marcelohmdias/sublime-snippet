@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+console.error(${1:message});$0
+]]>
+</content>
+<tabTrigger>ce</tabTrigger>
+<description>Js Function console.error()</description>
+</snippet>

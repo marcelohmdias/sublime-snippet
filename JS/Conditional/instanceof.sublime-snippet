@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:objeto} instanceof ${2:construtor}$0
+]]>
+</content>
+<tabTrigger>instanceof</tabTrigger>
+<description>Js Conditional instanceof</description>
+</snippet>

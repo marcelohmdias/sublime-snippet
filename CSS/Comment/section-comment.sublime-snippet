@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+/* ===== ${1:Section comment block}: ===== */
+${2:Body}$0
+/* ===== :${1:Section comment block} ===== */
+]]>
+</content>
+<tabTrigger>c//</tabTrigger>
+<description>CSS Section Comment</description>
+</snippet>

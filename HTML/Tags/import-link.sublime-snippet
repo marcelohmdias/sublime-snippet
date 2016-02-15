@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<link rel="${1:stylesheet}" type="${2:text/css}" href="{3:route}" ${4:size="${5:16x16}"}>$0
+]]>
+</content>
+<tabTrigger>ilink</tabTrigger>
+<description>HTML Import Tag Link</description>
+</snippet>

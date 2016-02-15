@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.textContent = '${2:content}';$0
+]]>
+</content>
+<tabTrigger>text</tabTrigger>
+<description>Js Function textContent()</description>
+</snippet>

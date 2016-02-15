@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<img src="http://placehold.it/${1:100x100}/${2:000000}.png&text=${3:Random+img+}${1:100x100}" alt="${4:Random+Title}">$0
+]]>
+</content>
+<tabTrigger>imgph</tabTrigger>
+<description>HTML Img Placehold.it</description>
+</snippet>

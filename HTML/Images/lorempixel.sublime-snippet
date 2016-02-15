@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<img src="http://lorempixel.com/${1:width}/${2:height}">$0
+]]>
+</content>
+<tabTrigger>lpixel</tabTrigger>
+<description>HTML Img Lorem Pixel</description>
+</snippet>

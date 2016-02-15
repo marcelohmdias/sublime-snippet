@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+prompt('${1:message}');$0
+]]>
+</content>
+<tabTrigger>prompt</tabTrigger>
+<description>Js prompt()</description>
+</snippet>

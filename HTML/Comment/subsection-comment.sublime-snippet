@@ -1,0 +1,10 @@
+
+<snippet>
+<content>
+<![CDATA[
+<!-- ${1:Simple Comment} -->$0
+]]>
+</content>
+<tabTrigger>h//</tabTrigger>
+<description>HTML Simple Comment</description>
+</snippet>

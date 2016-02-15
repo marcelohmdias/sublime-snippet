@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.classList.add('${2:class}');$0
+]]>
+</content>
+<tabTrigger>class</tabTrigger>
+<description>Js Function classList.add()</description>
+</snippet>

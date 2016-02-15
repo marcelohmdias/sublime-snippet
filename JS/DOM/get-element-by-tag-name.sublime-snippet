@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.getElementsByTagName('${2:tag}')${3:;}$0
+]]>
+</content>
+<tabTrigger>get</tabTrigger>
+<description>Js Function getElementsByTagName()</description>
+</snippet>

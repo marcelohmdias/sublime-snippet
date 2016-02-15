@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+console.dir(${1:message});$0
+]]>
+</content>
+<tabTrigger>cd</tabTrigger>
+<description>Js Function console.dir()</description>
+</snippet>

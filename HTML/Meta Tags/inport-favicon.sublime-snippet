@@ -1,0 +1,35 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Favicon: -->
+${2:<!--
+
+– 16px: Barra de endereço, abas e favoritos da maior parte dos navegadores.
+– 24px: Barra de ferramentas do Internet Explorer 9
+– 32px: Nova aba no IE, site fixo na barra de tarefas do Windos 7 e sidebar do Safari
+– 57px: iPhone sem tela retina e iPod Touch
+– 72px: iPad sem tela retina
+– 96px: GoogleTV
+– 114px: iPhone com tela retina
+– 128px: Chrome Web Store
+– 144px: iPad Retina, Windows 8 Tiles
+– 256x160px: Opera Speed Dial
+
+-->}
+
+<!--[if IE]>
+<link rel="shortcut icon" href="${1:route}.ico">
+<![endif]-->
+
+<link rel="icon" href="${1:route}.png">
+<link rel="icon" href="${1:route}-32.png" sizes="32x32">
+
+<!-- Apple devices -->
+<link rel="apple-touch-icon" href="${1:route}-72.png" sizes="72x72">
+
+<!-- :Favicon -->$0
+]]>
+</content>
+<tabTrigger>favicon</tabTrigger>
+<description>HTML Import Favicon</description>
+</snippet>

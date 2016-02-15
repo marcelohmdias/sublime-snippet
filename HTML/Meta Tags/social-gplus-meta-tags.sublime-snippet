@@ -1,0 +1,15 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Google Plus -->
+<link rel="author" href="${1:Google plus do autor}">
+<meta itemprop="name" content="${2:Título da página}">
+<meta itemprop="description" content="${3:Pequena descrição}">
+<meta itemprop="image" content="${4:Imagem da página}">
+<meta itemprop="url" content="${4:Url}">
+
+]]>
+</content>
+<tabTrigger>meta</tabTrigger>
+<description>Social Meta Tags - GPlus</description>
+</snippet>

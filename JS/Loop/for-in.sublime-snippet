@@ -1,0 +1,13 @@
+<snippet>
+<content>
+<![CDATA[
+for (var ${1:property} in ${2:object}) {
+  if (${2:object}.hasOwnProperty(${1:property})) {
+    ${3:${2:object}[${1:property}]$0;}
+  }
+}$0
+]]>
+</content>
+<tabTrigger>forin</tabTrigger>
+<description>Js for-in</description>
+</snippet>

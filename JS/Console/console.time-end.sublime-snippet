@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+console.timeEnd(${1:message});$0
+]]>
+</content>
+<tabTrigger>cte</tabTrigger>
+<description>Js Function console.timeEnd()</description>
+</snippet>

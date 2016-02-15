@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+function (${1:arguments}) {
+  ${2:body}
+}$0
+]]>
+</content>
+<tabTrigger>afunc</tabTrigger>
+<description>Js Anoynmous Function</description>
+</snippet>

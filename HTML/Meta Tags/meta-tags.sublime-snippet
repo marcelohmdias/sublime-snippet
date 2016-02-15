@@ -1,0 +1,34 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Meta tags: -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta charset="utf-8">
+<meta http-equiv="content-language" content="pt-br">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+
+<meta name="format-detection" content="telephone=no">
+<meta name="referrer" content="origin">
+
+<!-- Basic -->
+<meta name="author" content="${1:}">
+<meta name="description" content="${2:}">
+<meta name="keywords" content="${3:}">
+<meta name="reply-to" content="${4:}">
+
+<!-- Robots -->
+<meta name="robots" content="${5:index,follow}">
+<meta name="googlebot" content="${5:index,follow}">
+
+<!-- Geolocation -->
+<meta name="geo.country" content="${6:}">
+<meta name="geo.region" content="${7:}">
+<meta name="geo.placename" content="${8:}">
+
+<link rel="canonical" href="${9:}">
+<!-- :Meta tags -->
+]]>
+</content>
+<tabTrigger>meta</tabTrigger>
+<description>HTML Import Meta Tags</description>
+</snippet>

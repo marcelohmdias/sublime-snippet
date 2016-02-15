@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+for (var i = 0, len = ${1:data}.length; i ${2:<} len; i++) {
+  ${3:body}
+}$0
+]]>
+</content>
+<tabTrigger>for</tabTrigger>
+<description>Js for</description>
+</snippet>

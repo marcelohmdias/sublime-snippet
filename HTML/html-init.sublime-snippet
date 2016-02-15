@@ -1,0 +1,27 @@
+<snippet>
+<content>
+<![CDATA[
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    ${1:meta}
+
+    <script src="https://cdn.polyfill.io/v1/polyfill.min.js"></script>
+
+    <!-- Stylesheet: -->
+    <!-- :Stylesheet -->
+
+    <title>${2:Untitled}</title>
+  </head>
+  <body>
+    $0
+
+    <!-- Scripts: -->
+    <!-- :Scripts -->
+  </body>
+</html>
+]]>
+</content>
+<tabTrigger>inithtml</tabTrigger>
+<description>HTML5 Model</description>
+</snippet>

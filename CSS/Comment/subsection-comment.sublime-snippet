@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+/* ------ ${1:Sub-section comment} ------ */$0
+]]>
+</content>
+<tabTrigger>c//</tabTrigger>
+<description>CSS Sub-section Comment</description>
+</snippet>

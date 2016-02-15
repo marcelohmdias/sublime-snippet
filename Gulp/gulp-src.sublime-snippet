@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+gulp.src('${1:route}')
+]]></content>
+<tabTrigger>gs</tabTrigger>
+<description>GulpJS Source File</description>
+</snippet>

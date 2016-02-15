@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+exports.${1:module} = ${2:function};
+]]></content>
+<tabTrigger>exp</tabTrigger>
+<description>NodeJS Exports</description>
+</snippet>

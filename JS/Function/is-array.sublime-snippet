@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+Array.isArray(${1:object})$0
+]]>
+</content>
+<tabTrigger>isarray</tabTrigger>
+<description>Js Array Function isArray()</description>
+</snippet>

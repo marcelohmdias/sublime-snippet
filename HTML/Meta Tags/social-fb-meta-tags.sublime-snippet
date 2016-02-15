@@ -1,0 +1,25 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- Facebook -->
+<meta property="fb:admins" content="${1:ID do seu FB insight}">
+<meta property="fb:app_id" content="${2:Seu app ID}"">
+<meta property="og:url" content="${3:URL do seu site}">
+<meta property="og:type" content="${4:Tipo do link, article, page, etc}">
+<meta property="og:title" content="${5:Título do site}">
+<meta property="og:image" content="${6:Link absoluto da imagem}">
+<meta property="og:description" content="${7:Breve descrição}">
+<meta property="og:site_name" content="${8:Nome do site}">
+<meta property="article:author" content="${9:FB de quem escreveu}">
+<meta property="article:publisher" content="${10:FB de quem publicou}">
+<meta property="article:published_time" content="${11:Momento de publicação}">
+<meta property="article:tag" content="tag1">
+<meta property="article:tag" content="tag2">
+
+<link rel="image_src" href="${5:Link absoluto da imagem}">
+
+]]>
+</content>
+<tabTrigger>meta</tabTrigger>
+<description>Social Meta Tags - Facebook</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:document}.createDocumentFragment(${2:element});$0
+]]>
+</content>
+<tabTrigger>create</tabTrigger>
+<description>Js Function createDocumentFragment()</description>
+</snippet>

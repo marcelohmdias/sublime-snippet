@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+gulp.task('${1:name}', ${2:function});
+]]></content>
+<tabTrigger>gt</tabTrigger>
+<description>GulpJS Create Task</description>
+</snippet>

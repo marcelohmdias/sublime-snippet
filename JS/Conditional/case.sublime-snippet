@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+case ${1:data}:
+  ${2:expression};
+  break;$0
+]]>
+</content>
+<tabTrigger>case</tabTrigger>
+<description>Js switch</description>
+</snippet>
