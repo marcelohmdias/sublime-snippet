@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Array}.reverse()${2:;}$0
+]]>
+</content>
+<tabTrigger>array</tabTrigger>
+<description>Js Array Function reverse()</description>
+</snippet>

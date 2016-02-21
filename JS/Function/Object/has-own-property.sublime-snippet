@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Object}.hasOwnProperty(${2:prop})${3:;}$0
+]]>
+</content>
+<tabTrigger>object</tabTrigger>
+<description>Js Object Function hasOwnProperty()</description>
+</snippet>

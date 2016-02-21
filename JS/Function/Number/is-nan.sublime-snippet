@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+isNaN(${1:value});$0
+]]>
+</content>
+<tabTrigger>parse</tabTrigger>
+<description>Js Function isNaN()</description>
+</snippet>

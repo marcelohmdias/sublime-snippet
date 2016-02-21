@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:local-or-session}Storage.clear();$0
+]]>
+</content>
+<tabTrigger>storage</tabTrigger>
+<description>Js Function Storage.clear()</description>
+</snippet>

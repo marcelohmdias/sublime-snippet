@@ -2,6 +2,6 @@
 <content><![CDATA[
 .pipe(${1:function})$0
 ]]></content>
-<tabTrigger>pp</tabTrigger>
+<tabTrigger>pipe</tabTrigger>
 <description>GulpJS Function Pipe()</description>
 </snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:prop} in ${2:object}
+]]>
+</content>
+<tabTrigger>in</tabTrigger>
+<description>Js Operator in</description>
+</snippet>

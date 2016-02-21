@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Array}.slice(${2:begin}, ${3:end})${4:;}$0
+]]>
+</content>
+<tabTrigger>array</tabTrigger>
+<description>Js Array Function slice()</description>
+</snippet>

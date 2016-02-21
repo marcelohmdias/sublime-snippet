@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Array}.toString()${2:;}$0
+]]>
+</content>
+<tabTrigger>array</tabTrigger>
+<description>Js Array Function toString()</description>
+</snippet>

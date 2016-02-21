@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Array}.push(${2:element})${3:;}$0
+]]>
+</content>
+<tabTrigger>array</tabTrigger>
+<description>Js Array Function push()</description>
+</snippet>

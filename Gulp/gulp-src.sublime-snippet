@@ -2,6 +2,6 @@
 <content><![CDATA[
 gulp.src('${1:route}')$0
 ]]></content>
-<tabTrigger>gs</tabTrigger>
+<tabTrigger>src</tabTrigger>
 <description>GulpJS Source File</description>
 </snippet>

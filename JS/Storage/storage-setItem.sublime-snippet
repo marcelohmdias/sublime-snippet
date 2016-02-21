@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:local-or-session}Storage.setItem('${2:key}', ${3:value});$0
+]]>
+</content>
+<tabTrigger>storage</tabTrigger>
+<description>Js Function Storage.setItem()</description>
+</snippet>

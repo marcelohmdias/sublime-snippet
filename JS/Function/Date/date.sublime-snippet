@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+new Date(${1:value})${2:;}$0
+]]>
+</content>
+<tabTrigger>date</tabTrigger>
+<description>Js Function Date()</description>
+</snippet>

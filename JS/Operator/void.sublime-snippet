@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+void ${1:expression}${2:;}
+]]>
+</content>
+<tabTrigger>void</tabTrigger>
+<description>Js Operator void</description>
+</snippet>

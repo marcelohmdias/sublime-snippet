@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Array}.reduce(${2:function}, ${3:initialValue})${4:;}$0
+]]>
+</content>
+<tabTrigger>array</tabTrigger>
+<description>Js Array Function reduce()</description>
+</snippet>

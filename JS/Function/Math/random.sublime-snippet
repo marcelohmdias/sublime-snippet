@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+Math.random();$0
+]]>
+</content>
+<tabTrigger>math</tabTrigger>
+<description>Js Math Function random()</description>
+</snippet>

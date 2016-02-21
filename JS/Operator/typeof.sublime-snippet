@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+typeof ${1:expression}${2:;}
+]]>
+</content>
+<tabTrigger>typeof</tabTrigger>
+<description>Js Operator typeof</description>
+</snippet>

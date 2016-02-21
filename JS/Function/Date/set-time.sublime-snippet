@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+${1:Date}.setTime(${3:timeValue})${3:;}$0
+]]>
+</content>
+<tabTrigger>date</tabTrigger>
+<description>Js Date Function setTime()</description>
+</snippet>

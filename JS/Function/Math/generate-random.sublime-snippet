@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-Math.floor((Math.random() * ${1:10}) + 1);$0
+Math.floor((Math.random() * ${1:10 + 1});$0
 ]]>
 </content>
 <tabTrigger>random</tabTrigger>
