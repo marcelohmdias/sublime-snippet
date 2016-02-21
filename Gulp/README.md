@@ -1,12 +1,6 @@
 # Gulp Snippets
 
-- [Gulp Snippets](#)
-    - [Gulp function src](#gulp_src)
-    - [Gulp function task](#gulp_task)
-    - [Gulp function watch](#gulp_watch)
-    - [Gulp function pipe](#pipe)
-
-## gulp src
+## gulp.src()
 
 **Comand:** `src`
 
@@ -14,7 +8,7 @@
 gulp.src('route')
 ```
 
-## gulp task
+## gulp.task()
 
 **Comand:** `task`
 
@@ -22,7 +16,7 @@ gulp.src('route')
 gulp.task('name', ['tasks'], function);
 ```
 
-## gulp watch
+## gulp.watch()
 
 **Comand:** `watch`
 
@@ -30,13 +24,10 @@ gulp.task('name', ['tasks'], function);
 gulp.watch(path, ['tasks']).on('event', function);
 ```
 
-## pipe
+## pipe()
 
 **Comand:** `pipe`
 
 ```
 .pipe(function)
 ```
-
-
->[Voltar](https://github.com/marcelohmdias/sublime-snippet)
