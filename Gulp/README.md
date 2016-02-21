@@ -24,7 +24,7 @@ gulp.task('name', ['tasks'], function);
 gulp.watch(path, ['tasks']).on('event', function);
 ```
 
-## pipe()
+## .pipe()
 
 **Comand:** `pipe`
 
