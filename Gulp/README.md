@@ -31,3 +31,5 @@ gulp.watch(path, ['tasks']).on('event', function);
 ```
 .pipe(function)
 ```
+
+>[Voltar](https://github.com/marcelohmdias/sublime-snippet)
