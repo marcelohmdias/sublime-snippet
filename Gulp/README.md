@@ -1,9 +1,10 @@
 # Gulp Snippets
 
-- [gulp.src()]()
-- [gulp.task()]()
-- [gulp.watch]()
-- [.pipe()]()
+- [Gulp Snippets](#)
+    - [Gulp function src](#gulp.src)
+    - [Gulp function task](#)
+    - [Gulp function watch](#)
+    - [Gulp function pipe](#)
 
 ## gulp.src()
 
